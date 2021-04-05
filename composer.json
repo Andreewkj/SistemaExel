@@ -1,0 +1,15 @@
+{
+    "name": "vendor/leitorexcel",
+    "description": "Leitor de excel feito para facilitar a visualização de resultados",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.17"
+    },
+    "authors": [
+        {
+            "name": "Andreew",
+            "email": "andreew.k.januario@outlook.com"
+        }
+    ]
+}
