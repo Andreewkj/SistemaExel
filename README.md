@@ -1,5 +1,6 @@
 ﻿# SistemaExel
 
+Projeto realizado como teste técnico para vaga de desenvolvedor júnior.
 Sistema feito com intuito de facilitar a utilização do banco de dados por usuários comuns.
 
 1 - Execute os códigos do arquivo codigos.sql
