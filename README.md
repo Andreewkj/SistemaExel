@@ -1,7 +1,8 @@
 ﻿# SistemaExel
 
 Projeto realizado como teste técnico para vaga de desenvolvedor júnior.
-Sistema feito com intuito de facilitar a utilização do banco de dados por usuários comuns.
+
+O Sistema tem o objetivo de facilitar a utilização do banco de dados por usuários comuns.
 
 1 - Execute os códigos do arquivo codigos.sql
 2 - acesse o sistema http://localhost/leitorExcel/login/login.php (caso a pasta esteja dentro do htdocs)
